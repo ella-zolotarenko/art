@@ -1,0 +1,40 @@
+.aboutartist-wrap {
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+}
+
+.aboutartist-wrap h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.artist-swiper {
+  margin: 0;
+  width: 300px;
+  height: 300px;
+  max-height: 300px;
+
+  float: left;
+  margin-right: 3rem;
+  margin-bottom: 2rem;
+}
+
+.artist-swiper img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 640px) {
+  .aboutartist-wrap {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .artist-swiper {
+    float: initial;
+    margin-right: 0;
+  }
+}
