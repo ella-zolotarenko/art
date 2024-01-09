@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/art-zolotarenko/static/css/main.05cac559.css",
-    "main.js": "/art-zolotarenko/static/js/main.02f7fcf8.js",
-    "static/media/logo.png": "/art-zolotarenko/static/media/logo.71057ca9f95e63dc07fb.png",
-    "static/media/09.jpg": "/art-zolotarenko/static/media/09.ec7e1016bb7a5524c50a.jpg",
-    "static/media/06.jpg": "/art-zolotarenko/static/media/06.54fbac807b94f321c5d7.jpg",
-    "static/media/02.jpg": "/art-zolotarenko/static/media/02.2c32a5fb298fe86f0c79.jpg",
-    "static/media/01.jpg": "/art-zolotarenko/static/media/01.04fd13b82194fc698e30.jpg",
-    "static/media/04.jpg": "/art-zolotarenko/static/media/04.8ec3004ac21ea07d1bf3.jpg",
-    "static/media/03.jpg": "/art-zolotarenko/static/media/03.3fefbef37a1f42e128d8.jpg",
-    "static/media/08.jpg": "/art-zolotarenko/static/media/08.b4ca546132f2ea0b34fd.jpg",
-    "static/media/05.jpg": "/art-zolotarenko/static/media/05.d56c860c778c723604a7.jpg",
-    "static/media/07.jpg": "/art-zolotarenko/static/media/07.72c15f0a816f99f27cc0.jpg",
-    "static/media/Petrikivka.jpg": "/art-zolotarenko/static/media/Petrikivka.58f1c82a20092fd54f28.jpg",
-    "static/media/multilang.png": "/art-zolotarenko/static/media/multilang.02c94fd6194176a417dc.png",
-    "static/media/whatsapp.png": "/art-zolotarenko/static/media/whatsapp.042f822ea838a8ea10a6.png",
-    "static/media/instagram.png": "/art-zolotarenko/static/media/instagram.bed55d9bbba936a57508.png",
-    "static/media/web.png": "/art-zolotarenko/static/media/web.ddea4908eefd4d5c8d9b.png",
-    "index.html": "/art-zolotarenko/index.html",
-    "main.05cac559.css.map": "/art-zolotarenko/static/css/main.05cac559.css.map",
-    "main.02f7fcf8.js.map": "/art-zolotarenko/static/js/main.02f7fcf8.js.map"
+    "main.css": "/art/static/css/main.05cac559.css",
+    "main.js": "/art/static/js/main.d7100445.js",
+    "static/media/logo.png": "/art/static/media/logo.71057ca9f95e63dc07fb.png",
+    "static/media/09.jpg": "/art/static/media/09.ec7e1016bb7a5524c50a.jpg",
+    "static/media/06.jpg": "/art/static/media/06.54fbac807b94f321c5d7.jpg",
+    "static/media/02.jpg": "/art/static/media/02.2c32a5fb298fe86f0c79.jpg",
+    "static/media/01.jpg": "/art/static/media/01.04fd13b82194fc698e30.jpg",
+    "static/media/04.jpg": "/art/static/media/04.8ec3004ac21ea07d1bf3.jpg",
+    "static/media/03.jpg": "/art/static/media/03.3fefbef37a1f42e128d8.jpg",
+    "static/media/08.jpg": "/art/static/media/08.b4ca546132f2ea0b34fd.jpg",
+    "static/media/05.jpg": "/art/static/media/05.d56c860c778c723604a7.jpg",
+    "static/media/07.jpg": "/art/static/media/07.72c15f0a816f99f27cc0.jpg",
+    "static/media/Petrikivka.jpg": "/art/static/media/Petrikivka.58f1c82a20092fd54f28.jpg",
+    "static/media/multilang.png": "/art/static/media/multilang.02c94fd6194176a417dc.png",
+    "static/media/whatsapp.png": "/art/static/media/whatsapp.042f822ea838a8ea10a6.png",
+    "static/media/instagram.png": "/art/static/media/instagram.bed55d9bbba936a57508.png",
+    "static/media/web.png": "/art/static/media/web.ddea4908eefd4d5c8d9b.png",
+    "index.html": "/art/index.html",
+    "main.05cac559.css.map": "/art/static/css/main.05cac559.css.map",
+    "main.d7100445.js.map": "/art/static/js/main.d7100445.js.map"
   },
   "entrypoints": [
     "static/css/main.05cac559.css",
-    "static/js/main.02f7fcf8.js"
+    "static/js/main.d7100445.js"
   ]
 }
