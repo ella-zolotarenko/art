@@ -1,16 +1,43 @@
 {
   "files": {
     "main.css": "/art/static/css/main.05cac559.css",
-    "main.js": "/art/static/js/main.d7100445.js",
+    "main.js": "/art/static/js/main.53883072.js",
     "static/media/logo.png": "/art/static/media/logo.71057ca9f95e63dc07fb.png",
     "static/media/09.jpg": "/art/static/media/09.ec7e1016bb7a5524c50a.jpg",
+    "static/media/25.jpg": "/art/static/media/25.2a6038c8f160dde3a27f.jpg",
+    "static/media/29.jpg": "/art/static/media/29.2ad56835a3a02af8eb37.jpg",
+    "static/media/23.jpg": "/art/static/media/23.3ec6dd1f288168bb05e7.jpg",
     "static/media/06.jpg": "/art/static/media/06.54fbac807b94f321c5d7.jpg",
+    "static/media/14.jpg": "/art/static/media/14.788fd14d57d84db7348a.jpg",
     "static/media/02.jpg": "/art/static/media/02.2c32a5fb298fe86f0c79.jpg",
+    "static/media/20.jpg": "/art/static/media/20.799cb99c8c44b241d75e.jpg",
     "static/media/01.jpg": "/art/static/media/01.04fd13b82194fc698e30.jpg",
+    "static/media/22.jpg": "/art/static/media/22.1e48ab350ea6af810af8.jpg",
+    "static/media/12.jpg": "/art/static/media/12.14512b471bc65f2ecf10.jpg",
+    "static/media/33.jpg": "/art/static/media/33.f3f7e74f80c452344f75.jpg",
+    "static/media/24.jpg": "/art/static/media/24.64621816b50f49843c37.jpg",
     "static/media/04.jpg": "/art/static/media/04.8ec3004ac21ea07d1bf3.jpg",
     "static/media/03.jpg": "/art/static/media/03.3fefbef37a1f42e128d8.jpg",
+    "static/media/16.jpg": "/art/static/media/16.bae9de097117807edc23.jpg",
+    "static/media/15.jpg": "/art/static/media/15.cb58382a84f4b0f768ed.jpg",
     "static/media/08.jpg": "/art/static/media/08.b4ca546132f2ea0b34fd.jpg",
+    "static/media/27.jpg": "/art/static/media/27.64eef17b18b0ec991366.jpg",
+    "static/media/36.jpg": "/art/static/media/36.e221fd8696415e932a17.jpg",
+    "static/media/13.jpg": "/art/static/media/13.8f96fda6a6e858b4c197.jpg",
+    "static/media/19.jpg": "/art/static/media/19.7b664d5d2d03c1f11e97.jpg",
+    "static/media/26.jpg": "/art/static/media/26.647fc1245e38f20c370c.jpg",
+    "static/media/28.jpg": "/art/static/media/28.5d67079ee337c1cf0e99.jpg",
+    "static/media/11.jpg": "/art/static/media/11.2c94fdd48c49c154d363.jpg",
+    "static/media/21.jpg": "/art/static/media/21.ec8f18cb1e87feff7f73.jpg",
     "static/media/05.jpg": "/art/static/media/05.d56c860c778c723604a7.jpg",
+    "static/media/17.jpg": "/art/static/media/17.88e65ca9051af1376709.jpg",
+    "static/media/18.jpg": "/art/static/media/18.b4ee7a2ebc1c93b5cfb2.jpg",
+    "static/media/35.jpg": "/art/static/media/35.5ed3208d41cdc014556f.jpg",
+    "static/media/10.jpg": "/art/static/media/10.fc27684021de1017374d.jpg",
+    "static/media/30.jpg": "/art/static/media/30.ce46383251ea09a01eee.jpg",
+    "static/media/34.jpg": "/art/static/media/34.6f3d5ace0b989e11999d.jpg",
+    "static/media/32.jpg": "/art/static/media/32.9688b1f807adbdd6582d.jpg",
+    "static/media/31.jpg": "/art/static/media/31.2ac392ca672dee0c1a54.jpg",
     "static/media/07.jpg": "/art/static/media/07.72c15f0a816f99f27cc0.jpg",
     "static/media/Petrikivka.jpg": "/art/static/media/Petrikivka.58f1c82a20092fd54f28.jpg",
     "static/media/multilang.png": "/art/static/media/multilang.02c94fd6194176a417dc.png",
@@ -19,10 +46,10 @@
     "static/media/web.png": "/art/static/media/web.ddea4908eefd4d5c8d9b.png",
     "index.html": "/art/index.html",
     "main.05cac559.css.map": "/art/static/css/main.05cac559.css.map",
-    "main.d7100445.js.map": "/art/static/js/main.d7100445.js.map"
+    "main.53883072.js.map": "/art/static/js/main.53883072.js.map"
   },
   "entrypoints": [
     "static/css/main.05cac559.css",
-    "static/js/main.d7100445.js"
+    "static/js/main.53883072.js"
   ]
 }
