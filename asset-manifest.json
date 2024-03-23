@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/art/static/css/main.05cac559.css",
-    "main.js": "/art/static/js/main.53883072.js",
+    "main.css": "/art/static/css/main.79ac0876.css",
+    "main.js": "/art/static/js/main.2b544749.js",
+    "static/media/scarf_1.jpg": "/art/static/media/scarf_1.fa96a2d0f28e3a6ce7fb.jpg",
     "static/media/logo.png": "/art/static/media/logo.71057ca9f95e63dc07fb.png",
     "static/media/09.jpg": "/art/static/media/09.ec7e1016bb7a5524c50a.jpg",
+    "static/media/bag.jpg": "/art/static/media/bag.ba67576d53a3f37f7390.jpg",
     "static/media/25.jpg": "/art/static/media/25.2a6038c8f160dde3a27f.jpg",
     "static/media/29.jpg": "/art/static/media/29.2ad56835a3a02af8eb37.jpg",
     "static/media/23.jpg": "/art/static/media/23.3ec6dd1f288168bb05e7.jpg",
     "static/media/06.jpg": "/art/static/media/06.54fbac807b94f321c5d7.jpg",
+    "static/media/scarf_2.jpg": "/art/static/media/scarf_2.8da096dcb5f5be8dfde0.jpg",
     "static/media/14.jpg": "/art/static/media/14.788fd14d57d84db7348a.jpg",
     "static/media/02.jpg": "/art/static/media/02.2c32a5fb298fe86f0c79.jpg",
     "static/media/20.jpg": "/art/static/media/20.799cb99c8c44b241d75e.jpg",
@@ -16,8 +19,10 @@
     "static/media/12.jpg": "/art/static/media/12.14512b471bc65f2ecf10.jpg",
     "static/media/33.jpg": "/art/static/media/33.f3f7e74f80c452344f75.jpg",
     "static/media/24.jpg": "/art/static/media/24.64621816b50f49843c37.jpg",
+    "static/media/pillow.jpg": "/art/static/media/pillow.9c6eb25d50c801e16226.jpg",
     "static/media/04.jpg": "/art/static/media/04.8ec3004ac21ea07d1bf3.jpg",
     "static/media/03.jpg": "/art/static/media/03.3fefbef37a1f42e128d8.jpg",
+    "static/media/shirt.jpg": "/art/static/media/shirt.f96618ab67baf2e43b95.jpg",
     "static/media/16.jpg": "/art/static/media/16.bae9de097117807edc23.jpg",
     "static/media/15.jpg": "/art/static/media/15.cb58382a84f4b0f768ed.jpg",
     "static/media/08.jpg": "/art/static/media/08.b4ca546132f2ea0b34fd.jpg",
@@ -45,11 +50,11 @@
     "static/media/instagram.png": "/art/static/media/instagram.bed55d9bbba936a57508.png",
     "static/media/web.png": "/art/static/media/web.ddea4908eefd4d5c8d9b.png",
     "index.html": "/art/index.html",
-    "main.05cac559.css.map": "/art/static/css/main.05cac559.css.map",
-    "main.53883072.js.map": "/art/static/js/main.53883072.js.map"
+    "main.79ac0876.css.map": "/art/static/css/main.79ac0876.css.map",
+    "main.2b544749.js.map": "/art/static/js/main.2b544749.js.map"
   },
   "entrypoints": [
-    "static/css/main.05cac559.css",
-    "static/js/main.53883072.js"
+    "static/css/main.79ac0876.css",
+    "static/js/main.2b544749.js"
   ]
 }
