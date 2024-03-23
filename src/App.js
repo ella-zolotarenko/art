@@ -6,6 +6,7 @@ import locales from "./service/locales";
 import MainNavbar from "./components/MainNavbar";
 
 import Home from "./pages/Home";
+import Shop from "./pages/Shop";
 import Gallery from "./pages/Gallery";
 import AboutArtist from "./pages/AboutArtist";
 import AboutArt from "./pages/AboutArt";
@@ -34,6 +35,8 @@ function App() {
         />
         <div className="home-separator" id="home"></div>
         <Home show={modalShow} onHide={() => setModalShow(false)} />
+        <div className="separator" id="shop"></div>
+        <Shop />
         <div className="separator" id="gallery"></div>
         <Gallery />
         <div className="separator" id="aboutartist"></div>

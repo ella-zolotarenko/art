@@ -45,6 +45,9 @@ function MainNavbar({ setModalShow, onLanguageChange }) {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="justify-content-end flex-grow-1 pe-3">
+            <Nav.Link href="#shop">
+              <FormattedMessage id="mainNavbar.shop" defaultMessage="Shop" />
+            </Nav.Link>
             <Nav.Link href="#gallery">
               <FormattedMessage
                 id="mainNavbar.gallery"
