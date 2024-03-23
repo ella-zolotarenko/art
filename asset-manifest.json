@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/art/static/css/main.79ac0876.css",
+    "main.css": "/art/static/css/main.6933f00d.css",
     "main.js": "/art/static/js/main.2b544749.js",
     "static/media/scarf_1.jpg": "/art/static/media/scarf_1.fa96a2d0f28e3a6ce7fb.jpg",
     "static/media/logo.png": "/art/static/media/logo.71057ca9f95e63dc07fb.png",
@@ -50,11 +50,11 @@
     "static/media/instagram.png": "/art/static/media/instagram.bed55d9bbba936a57508.png",
     "static/media/web.png": "/art/static/media/web.ddea4908eefd4d5c8d9b.png",
     "index.html": "/art/index.html",
-    "main.79ac0876.css.map": "/art/static/css/main.79ac0876.css.map",
+    "main.6933f00d.css.map": "/art/static/css/main.6933f00d.css.map",
     "main.2b544749.js.map": "/art/static/js/main.2b544749.js.map"
   },
   "entrypoints": [
-    "static/css/main.79ac0876.css",
+    "static/css/main.6933f00d.css",
     "static/js/main.2b544749.js"
   ]
 }
