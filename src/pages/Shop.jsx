@@ -104,64 +104,13 @@ export default function Shop() {
 
   return (
     <div className="shop-wrap">
-      <div className="shop-info">
-        <h1>
-          <FormattedMessage
-            id="shop.info.p1"
-            defaultMessage="Products with Petrykivsky painting are available."
-          />
-        </h1>
-        <p>
-          <FormattedMessage
-            id="shop.info.p2"
-            defaultMessage="Sublimation printing."
-          />
-        </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p3"
-            defaultMessage="High print quality. The fabric is dyed over its entire application surface and penetrates deep into the fibers."
-          />
-        </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p4"
-            defaultMessage="When washing, use 30-40°C. The image remains sharp and vivid forever."
-          />
-        </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p5"
-            defaultMessage="You need to iron the product inside out."
-          />
-        </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p6"
-            defaultMessage="Delivery time for orders is 5-7 days."
-          />
-        </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p7"
-            defaultMessage="Author: Ella Zolotarenko."
-          />
-        </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p8"
-            defaultMessage="Products to order"
-          />
-        </p>
-        <p>+380679092785</p>
-      </div>
       <div className="shop-catalog">
-        <h2>
+        {/* <h2>
           <FormattedMessage
             id="shop.catalog.header"
             defaultMessage="Products for your attention:"
           />
-        </h2>
+        </h2> */}
         <div className="shop-item">
           <div className="shop-gallery">
             <ImageGallery
@@ -462,6 +411,57 @@ export default function Shop() {
             </p>
           </div>
         </div>
+      </div>
+      <div className="shop-info">
+        <h1>
+          <FormattedMessage
+            id="shop.info.p1"
+            defaultMessage="Products with Petrykivsky painting are available."
+          />
+        </h1>
+        <p>
+          <FormattedMessage
+            id="shop.info.p2"
+            defaultMessage="Sublimation printing."
+          />
+        </p>
+        <p>
+          <FormattedMessage
+            id="shop.info.p3"
+            defaultMessage="High print quality. The fabric is dyed over its entire application surface and penetrates deep into the fibers."
+          />
+        </p>
+        <p>
+          <FormattedMessage
+            id="shop.info.p4"
+            defaultMessage="When washing, use 30-40°C. The image remains sharp and vivid forever."
+          />
+        </p>
+        <p>
+          <FormattedMessage
+            id="shop.info.p5"
+            defaultMessage="You need to iron the product inside out."
+          />
+        </p>
+        <p>
+          <FormattedMessage
+            id="shop.info.p6"
+            defaultMessage="Delivery time for orders is 5-7 days."
+          />
+        </p>
+        <p>
+          <FormattedMessage
+            id="shop.info.p7"
+            defaultMessage="Author: Ella Zolotarenko."
+          />
+        </p>
+        <p>
+          <FormattedMessage
+            id="shop.info.p8"
+            defaultMessage="Products to order"
+          />
+        </p>
+        <p>+380679092785</p>
       </div>
     </div>
   );
