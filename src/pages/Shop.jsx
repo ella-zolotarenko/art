@@ -105,27 +105,41 @@ export default function Shop() {
   return (
     <div className="shop-wrap">
       <div className="shop-catalog">
-        {/* <h2>
+        <h2>
           <FormattedMessage
-            id="shop.catalog.header"
-            defaultMessage="Products for your attention:"
+            id="shop.info.p1"
+            defaultMessage="Products with Petrykivsky painting are available"
           />
-        </h2> */}
+        </h2>
+
         <div className="shop-item">
           <div className="shop-gallery">
+            <h3>
+              <FormattedMessage
+                id="shop.catalog.shirt1"
+                defaultMessage="T-shirts of 3 types"
+              />
+            </h3>
             <ImageGallery
               items={shirtImages}
               showPlayButton={false}
               showBullets
               showThumbnails={false}
             />
+            <p>15 USD</p>
           </div>
 
           <div className="shop-item-description">
             <p>
               <FormattedMessage
-                id="shop.catalog.shirt1"
-                defaultMessage="T-shirts of 3 types:"
+                id="shop.catalog.shirt11"
+                defaultMessage="Orders are accepted in private or by phone +380679092785"
+              />
+            </p>
+            <p>
+              <FormattedMessage
+                id="shop.catalog.shirt4"
+                defaultMessage="The cost of each is 15 USD."
               />
             </p>
             <p>
@@ -142,13 +156,6 @@ export default function Shop() {
             </p>
             <p>
               <FormattedMessage
-                id="shop.catalog.shirt4"
-                defaultMessage="The cost of each is 15 USD."
-              />
-            </p>
-            <br />
-            <p>
-              <FormattedMessage
                 id="shop.catalog.shirt5"
                 defaultMessage="The drawing is applied by the method of sublimation heat transfer, embedding into fabric fibers."
               />
@@ -159,7 +166,6 @@ export default function Shop() {
                 defaultMessage="Hand wash ~ 40° C. Iron inside out."
               />
             </p>
-            <br />
             <p>
               <FormattedMessage
                 id="shop.catalog.shirt7"
@@ -184,30 +190,36 @@ export default function Shop() {
                 defaultMessage="#петриківськийрозписульвові"
               />
             </p>
-            <br />
-            <p>
-              <FormattedMessage
-                id="shop.catalog.shirt11"
-                defaultMessage="Orders are accepted in private or by phone +380679092785"
-              />
-            </p>
           </div>
         </div>
         <div className="shop-item">
           <div className="shop-gallery">
+            <h3>
+              <FormattedMessage
+                id="shop.catalog.bag0"
+                defaultMessage="The shopping bag"
+              />
+            </h3>
             <ImageGallery
               items={bagImages}
               showPlayButton={false}
               showBullets
               showThumbnails={false}
             />
+            <p>15 USD</p>
           </div>
 
           <div className="shop-item-description">
             <p>
               <FormattedMessage
-                id="shop.catalog.bag1"
-                defaultMessage="The shopping bag is made of white dense fabric 230 g/m2. The composition of the fabric is 60% - polyester thread, 40% - cotton, which gives the product wear resistance and guarantees easy removal of dirt. Guarantee of high quality when used and washed."
+                id="shop.catalog.bag10"
+                defaultMessage="Orders are accepted, write in advance in Viber, Whats App: +380679092785"
+              />
+            </p>
+            <p>
+              <FormattedMessage
+                id="shop.catalog.bag4"
+                defaultMessage="Cost: 15 USD."
               />
             </p>
             <p>
@@ -218,17 +230,16 @@ export default function Shop() {
             </p>
             <p>
               <FormattedMessage
-                id="shop.catalog.bag3"
-                defaultMessage="Colored handles."
+                id="shop.catalog.bag1"
+                defaultMessage="The shopping bag is made of white dense fabric 230 g/m2. The composition of the fabric is 60% - polyester thread, 40% - cotton, which gives the product wear resistance and guarantees easy removal of dirt. Guarantee of high quality when used and washed."
               />
             </p>
             <p>
               <FormattedMessage
-                id="shop.catalog.bag4"
-                defaultMessage="Cost: 15 USD."
+                id="shop.catalog.bag3"
+                defaultMessage="Colored handles."
               />
             </p>
-            <br />
             <p>
               <FormattedMessage
                 id="shop.catalog.bag5"
@@ -259,23 +270,23 @@ export default function Shop() {
                 defaultMessage="#петриківськийрозписульвові"
               />
             </p>
-            <br />
-            <p>
-              <FormattedMessage
-                id="shop.catalog.bag10"
-                defaultMessage="Orders are accepted, write in advance in Viber, Whats App: +380679092785"
-              />
-            </p>
           </div>
         </div>
         <div className="shop-item">
           <div className="shop-gallery">
+            <h3>
+              <FormattedMessage
+                id="shop.catalog.scarf0"
+                defaultMessage="Author's handkerchief"
+              />
+            </h3>
             <ImageGallery
               items={scarfImages}
               showPlayButton={false}
               showBullets
               showThumbnails={false}
             />
+            <p>35 USD</p>
           </div>
 
           <div className="shop-item-description">
@@ -309,7 +320,6 @@ export default function Shop() {
                 defaultMessage="Cost: 35 USD."
               />
             </p>
-            <br />
             <p>
               <FormattedMessage
                 id="shop.catalog.scarf6"
@@ -338,19 +348,32 @@ export default function Shop() {
         </div>
         <div className="shop-item">
           <div className="shop-gallery">
+            <h3>
+              <FormattedMessage
+                id="shop.catalog.thermos1"
+                defaultMessage="Thermos, thermal mug, drinking cup"
+              />
+            </h3>
             <ImageGallery
               items={thermosImages}
               showPlayButton={false}
               showBullets
               showThumbnails={false}
             />
+            <p>20 USD</p>
           </div>
 
           <div className="shop-item-description">
             <p>
               <FormattedMessage
-                id="shop.catalog.thermos1"
-                defaultMessage="Thermos, thermal mug, drinking cup."
+                id="shop.catalog.thermos10"
+                defaultMessage="To order, write to personal +380679092785"
+              />
+            </p>
+            <p>
+              <FormattedMessage
+                id="shop.catalog.thermos5"
+                defaultMessage="Cost: 20 USD."
               />
             </p>
             <p>
@@ -371,13 +394,6 @@ export default function Shop() {
                 defaultMessage="The picture is applied by the method of sublimation thermal transfer."
               />
             </p>
-            <p>
-              <FormattedMessage
-                id="shop.catalog.thermos5"
-                defaultMessage="Cost: 20 USD."
-              />
-            </p>
-            <br />
             <p>
               <FormattedMessage
                 id="shop.catalog.thermos6"
@@ -402,30 +418,22 @@ export default function Shop() {
                 defaultMessage="#петриківськийрозписульвові"
               />
             </p>
-            <br />
-            <p>
-              <FormattedMessage
-                id="shop.catalog.thermos10"
-                defaultMessage="To order, write to personal +380679092785"
-              />
-            </p>
           </div>
         </div>
       </div>
       <div className="shop-info">
-        <h1>
+        <p>
           <FormattedMessage
-            id="shop.info.p1"
-            defaultMessage="Products with Petrykivsky painting are available."
+            id="shop.info.p8"
+            defaultMessage="Products to order"
           />
-        </h1>
+        </p>
+        <p>+380679092785</p>
         <p>
           <FormattedMessage
             id="shop.info.p2"
             defaultMessage="Sublimation printing."
           />
-        </p>
-        <p>
           <FormattedMessage
             id="shop.info.p3"
             defaultMessage="High print quality. The fabric is dyed over its entire application surface and penetrates deep into the fibers."
@@ -455,13 +463,7 @@ export default function Shop() {
             defaultMessage="Author: Ella Zolotarenko."
           />
         </p>
-        <p>
-          <FormattedMessage
-            id="shop.info.p8"
-            defaultMessage="Products to order"
-          />
-        </p>
-        <p>+380679092785</p>
+        <p>***</p>
       </div>
     </div>
   );
